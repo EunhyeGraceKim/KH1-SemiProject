@@ -56,7 +56,17 @@
 - 아이디 찾기
 <img alt="Register" src="https://user-images.githubusercontent.com/66661653/92556542-2dca9c00-f2a5-11ea-8086-7ee2145a3500.png">
 
+- 비밀번호 찾기
+<img alt="Register" src="https://user-images.githubusercontent.com/66661653/92556607-5f436780-f2a5-11ea-9692-05a6dc39f538.png">
 
+- 개인정보 수정
+<img alt="Register" src="https://user-images.githubusercontent.com/66661653/92556869-f01a4300-f2a5-11ea-9da0-86a91077ebdc.png">
+
+- 탈퇴하기
+<img alt="Register" src="https://user-images.githubusercontent.com/66661653/92556787-be08e100-f2a5-11ea-97dd-ae94ffeba831.png">
+
+- 1:1 문의 
+<img alt="Register" src="https://user-images.githubusercontent.com/66661653/92556713-9580e700-f2a5-11ea-9aa3-6fc694290e3f.png">
 
 <br/>
 <br/>
