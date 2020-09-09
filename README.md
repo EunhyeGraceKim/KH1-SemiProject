@@ -53,6 +53,10 @@
 - 회원가입 페이지
 <img alt="Register" src="https://user-images.githubusercontent.com/66661653/92554617-babf2680-f2a0-11ea-9efe-0b39d715d964.png">
 
+- 아이디 찾기
+<img alt="Register" src="https://user-images.githubusercontent.com/66661653/92556264-7170d600-f2a4-11ea-90a9-8816af03680d.png">
+
+
 
 <br/>
 <br/>
